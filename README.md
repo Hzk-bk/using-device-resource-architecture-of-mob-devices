@@ -1,0 +1,1 @@
+# using-device-resource-architecture-of-mob-devices
